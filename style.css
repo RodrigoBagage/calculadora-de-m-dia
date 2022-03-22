@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+  align-items: center;
+  font-family: cursive;
+  background-image: url("image/Livros.jpg");
+  background-color: #fdbeef;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 90vh;
+
+}
+
+.calcular {
+  background-color: #ee30c5;
+  border: none;
+  border-radius: 5rem;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.input1 {
+  text-align: center;
+  border-radius: 5rem;
+  height: 2rem;
+  font-size: 25px;
+  color: black;
+  width: 500px;
+
+}
+
+.input {
+  text-align: center;
+  border-radius: 5rem;
+  height: 2rem;
+  font-size: 25px;
+  color: black;
+  width: 200px;
+}
+
+.bagage {
+  width: 15rem;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  border-radius: 2rem;
+
+}
+
+.social {
+  position: absolute;
+  border-radius: 50%;
+}
+
+.teste {
+  color: rgb(0, 132, 255);
+}
